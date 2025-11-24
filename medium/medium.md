@@ -2,10 +2,10 @@
 
 You've mastered the basics! Now let's build on that foundation. This section introduces you to classes, asynchronous code, and handling errors—core concepts for building real applications.
 
----
+---echo 'deb [signed-by=/usr/share/keyrings/dart.gpg arch=amd64] https://storage.googleapis.com/download.dartlang.org/linux/debian stable main' | sudo tee /etc/apt/sources.list.d/dart_stable.list
 
 ### Classes, Objects & Constructors (Tasks 112-120)
-
+sudo apt-get update.  sudo apt-get install dart
 112. **Task:** Define a simple class named `Car`.
     * **Expected Output:** (No output, just declaration)
 
